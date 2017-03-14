@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/t_controller_isim_beh.exe" -prj "D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/t_controller_beh.prj" "work.t_controller" "work.glbl" 
