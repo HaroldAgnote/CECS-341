@@ -1,0 +1,29 @@
+Command line:
+   WriteBack_TestBench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56287
+
+Tue Mar 14 19:07:38 2017
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 845.668 Meg
+
+ Total Signals          : 28
+ Total Nets             : 122
+ Total Signal Drivers   : 13
+ Total Blocks           : 5
+ Total Primitive Blocks : 3
+ Total Processes        : 15
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 337
+Total Line Count : 42
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 688.382 Meg
+
+Tue Mar 14 19:11:59 2017
+

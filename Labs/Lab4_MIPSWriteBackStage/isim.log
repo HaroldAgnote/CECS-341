@@ -1,6 +1,5 @@
 ISim log file
-Running: D:\Documents\git\CECS-341\Labs\Lab3 Control Unit\Lab3Project\t_controller_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/t_controller_isim_beh.wdb 
-INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+Running: D:\Documents\git\CECS-341\Labs\Lab4_MIPSWriteBackStage\WriteBack_TestBench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Documents/git/CECS-341/Labs/Lab4_MIPSWriteBackStage/WriteBack_TestBench_isim_beh.wdb 
 ISim P.20131013 (signature 0x7708f090)
 ----------------------------------------------------------------------
 INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
@@ -26,24 +25,35 @@ Time resolution is 1 ps
 # wave add /
 # run 1000 ns
 Simulator is doing circuit initialization process.
-Testing R- Type Instructions
 Finished circuit initialization process.
-0000110010
-0000110110
-0000110000
-0000110001
-0000110111
-lw
-1001010010
-sw
-0101000010
-beq (branch taken)
-0010000110
-beq (branch NOT taken)
-0000000110
-addi
-0001010010
-j
-0000001010
-End Simulation!
-Stopped at time : 11 ns : File "D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/testbench.v" Line 40
+Test Case           0
+aluoutw = 12153524	readdata = c0895e81
+memtoregm = 0	resultw = 12153524
+regwritem = 1	regwritew = 1
+writeregm = 04	writeregw = 04
+
+Test Case           1
+aluoutw = b1f05663	readdata = 06b97b0d
+memtoregm = 1	resultw = 06b97b0d
+regwritem = 1	regwritew = 1
+writeregm = 06	writeregw = 06
+
+Test Case           2
+aluoutw = b2c28465	readdata = 89375212
+memtoregm = 0	resultw = b2c28465
+regwritem = 1	regwritew = 1
+writeregm = 00	writeregw = 00
+
+Test Case           3
+aluoutw = 06d7cd0d	readdata = 3b23f176
+memtoregm = 1	resultw = 3b23f176
+regwritem = 1	regwritew = 1
+writeregm = 1e	writeregw = 1e
+
+Test Case           4
+aluoutw = 76d457ed	readdata = 462df78c
+memtoregm = 0	resultw = 76d457ed
+regwritem = 1	regwritew = 1
+writeregm = 1c	writeregw = 1c
+
+Stopped at time : 6 ns : File "D:/Documents/git/CECS-341/Labs/Lab4_MIPSWriteBackStage/WriteBack_TestBench.v" Line 64
