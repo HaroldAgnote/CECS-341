@@ -1,0 +1,59 @@
+ISim log file
+Running: D:\Documents\git\CECS-341\Labs\Lab6_MIPS_IF\IF_Stage_TestBench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage_TestBench_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Harold, on host ACEHUNTER3-III.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;C:\Xilinx\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;C:\Xilinx\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Test Case           0
+pcsrc = 0	pcbranch = 42f24185
+pc = 00000004	instr = c0895e81
+Test Case           1
+pcsrc = 0	pcbranch = 27f2554f
+pc = 00000008	instr = 8484d609
+Test Case           2
+pcsrc = 1	pcbranch = 9dcc603b
+pc = 00000000	instr = 12153524
+Test Case           3
+pcsrc = 0	pcbranch = 1d06333a
+pc = 00000004	instr = c0895e81
+Test Case           4
+pcsrc = 1	pcbranch = bf23327e
+pc = 00000000	instr = 12153524
+Test Case           5
+pcsrc = 0	pcbranch = 0aaa4b15
+pc = 00000004	instr = c0895e81
+Test Case           6
+pcsrc = 0	pcbranch = 78d99bf1
+pc = 00000008	instr = 8484d609
+Test Case           7
+pcsrc = 0	pcbranch = 6c9c4bd9
+pc = 0000000c	instr = b1f05663
+Test Case           8
+pcsrc = 0	pcbranch = 31230762
+pc = 00000010	instr = 06b97b0d
+Test Case           9
+pcsrc = 0	pcbranch = 2635fb4c
+pc = 00000014	instr = 46df998d
+Stopped at time : 112 ns : File "D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage_TestBench.v" Line 33

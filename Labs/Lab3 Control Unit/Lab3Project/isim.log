@@ -1,6 +1,5 @@
 ISim log file
 Running: D:\Documents\git\CECS-341\Labs\Lab3 Control Unit\Lab3Project\t_controller_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/t_controller_isim_beh.wdb 
-INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
 ISim P.20131013 (signature 0x7708f090)
 ----------------------------------------------------------------------
 INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.

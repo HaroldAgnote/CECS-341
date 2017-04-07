@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-03-23T05:41:00</DateModified>
+  <DateModified>2017-04-06T19:42:42</DateModified>
   <ModuleName>WB_Stage</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>D:/Documents/git/CECS-341/Labs/Lab4_MIPSWriteBackStage/iseconfig/WB_Stage.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/Documents/git/CECS-341/Labs/Lab4_MIPSWriteBackStage</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>D:/Documents/git/CECS-341/Labs/Lab4_MIPSWriteBackStage\</ImplementationReportsDirectory>
   <DateInitialized>2017-03-23T05:41:00</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

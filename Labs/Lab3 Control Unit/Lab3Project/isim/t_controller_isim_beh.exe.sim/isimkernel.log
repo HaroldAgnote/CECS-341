@@ -1,15 +1,15 @@
 Command line:
    t_controller_isim_beh.exe
      -simmode  gui
-     -simrunnum  1
-     -socket  56204
+     -simrunnum  0
+     -socket  55495
 
-Tue Mar 14 18:49:39 2017
+Thu Mar 30 17:42:25 2017
 
 
- Elaboration Time: 0.046875 sec
+ Elaboration Time: 0.03125 sec
 
- Current Memory Usage: 845.713 Meg
+ Current Memory Usage: 841.581 Meg
 
  Total Signals          : 45
  Total Nets             : 39
@@ -21,9 +21,9 @@ Tue Mar 14 18:49:39 2017
  Total Scalar Nets and Variables : 206
 Total Line Count : 60
 
- Total Simulation Time: 0.171875 sec
+ Total Simulation Time: 0.0625 sec
 
- Current Memory Usage: 373.854 Meg
+ Current Memory Usage: 684.294 Meg
 
-Tue Mar 14 19:11:44 2017
+Thu Mar 30 17:44:14 2017
 

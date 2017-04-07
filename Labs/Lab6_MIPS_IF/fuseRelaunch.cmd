@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage_TestBench_isim_beh.exe" -prj "D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage_TestBench_beh.prj" "work.IF_Stage_TestBench" "work.glbl" 
