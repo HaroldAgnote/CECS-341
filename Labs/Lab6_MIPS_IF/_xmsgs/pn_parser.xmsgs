@@ -11,20 +11,23 @@
 <msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/mux2.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 3
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/mux2.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 3
 </arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">4</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/flopr.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 4
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">4</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/flopr.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 4
 </arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">5</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/adder32.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 5
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">5</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/adder32.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 5
 </arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">6</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab3 Control Unit/Lab3Project/imem.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 6
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v</arg>&quot; Line <arg fmt="%d" index="2">6</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/imem.v&apos; in file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage.v&quot; line 6
 </arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Documents/git/CECS-341/Labs/Lab6_MIPS_IF/IF_Stage_TestBench.v&quot; into library work</arg>
 </msg>
 
 </messages>
